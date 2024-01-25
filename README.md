@@ -1,3 +1,2 @@
-# CodeClauseInternship_ToDoList
-
-This is a To-Do-List  project
+# to-do-list.github.io
+To-do list website
